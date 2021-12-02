@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
+PROJECT TITLE: Tic-Tac-Toe
+PURPOSE OF PROJECT: Create a variable board size tic-tac-toe game in Java with a simple AI opponent
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Riley Olds
 USER INSTRUCTIONS:
