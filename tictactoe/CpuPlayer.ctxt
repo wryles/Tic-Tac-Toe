@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CpuPlayer
+comment0.text=\r\n\ A\ class\ representing\ a\ computer\ tic-tac-toe\ player.\r\n\ @author\ Riley\ Olds\r\n
+comment1.params=game\ symbol
+comment1.target=CpuPlayer(Game,\ char)
+comment1.text=\r\n\ Constructor\ for\ a\ CpuPlayer.\r\n\ @param\ game\ the\ game\ the\ cpu\ is\ playing\ in.\r\n\ @param\ symbol\ the\ cpu's\ symbol.\r\n
+comment2.params=
+comment2.target=Move\ pickMove()
+comment2.text=\r\n\ Selects\ a\ random\ available\ move\ for\ the\ cpu.\ Does\ this\ by\ selecting\ a\ random\ number\ in\ the\ range\ [0,1)\r\n\ which\ is\ multiplied\ by\ the\ board\ size\ before\ being\ cast\ to\ an\ int.\r\n\ @return\ the\ cpu's\ move.\r\n
+numComments=3

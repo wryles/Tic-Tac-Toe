@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=APlayer
+comment0.text=\r\n\ A\ class\ representing\ a\ generic\ tic-tac-toe\ player.\r\n\ @author\ Riley\ Olds\r\n
+comment1.params=game\ symbol
+comment1.target=APlayer(Game,\ char)
+comment1.text=\r\n\ Constructor\ for\ APlayer\ for\ a\ given\ game\ and\ symbol.\r\n\ @param\ game\ the\ game\ the\ player\ is\ partaking\ in.\r\n\ @param\ symbol\ the\ symbol\ of\ the\ player.\r\n
+comment2.params=
+comment2.target=char\ getSymbol()
+comment2.text=\r\n\ Returns\ the\ symbol\ of\ the\ player\ this\ is\ called\ upon.\r\n\ @return\ the\ symbol\ of\ the\ player.\r\n
+comment3.params=
+comment3.target=Move\ pickMove()
+comment3.text=\r\n\ Empty\ pick\ move\ function\r\n\ @return\ returns\ null.\r\n
+numComments=4

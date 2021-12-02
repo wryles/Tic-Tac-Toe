@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Move
+comment0.text=\r\n\ A\ class\ representing\ a\ move\ in\ a\ game.\r\n\ @author\ Riley\ Olds\r\n
+comment1.params=
+comment1.target=Move()
+comment1.text=\r\n\ Empty\ Move\ constructor.\r\n
+comment2.params=row\ col
+comment2.target=Move(int,\ int)
+comment2.text=\r\n\ Constructor\ for\ a\ Move.\r\n\ @param\ row\ the\ row\ of\ the\ move.\r\n\ @param\ col\ the\ column\ of\ the\ move.\r\n
+numComments=3
